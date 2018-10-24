@@ -1,0 +1,30 @@
+{
+  "name": "lisplet-tests",
+  "version": "1.0.0",
+  "description": "Fork of https://repl.it/@ericqweinstein/Lisplet",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jboxman/lisplet-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jboxman/lisplet-tests/issues"
+  },
+  "homepage": "https://github.com/jboxman/lisplet-tests#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
